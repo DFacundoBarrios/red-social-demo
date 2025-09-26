@@ -223,7 +223,7 @@ red-social-demo/
 
 **Facundo Barrios** - Desarrollador Full Stack Jr
 
-- 📧 Email: [tu-email@ejemplo.com](mailto:faqbarrios23@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/facundobarrios27/)
-- 🐙 GitHub: [@DFacundoBarrios](https://github.com/DFacundoBarrios)
+- 📧 Email: faqbarrios23@gmail.com
+- 💼 LinkedIn: [Facundo Barrios](https://www.linkedin.com/in/facundobarrios27/)
+- 🐙 GitHub: [DFacundoBarrios](https://github.com/DFacundoBarrios) 
 
